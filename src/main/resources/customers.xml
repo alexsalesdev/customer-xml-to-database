@@ -1,0 +1,22 @@
+<customers>
+    <customer>
+        <name>someone else</name>
+        <age>26</age>
+
+        <other>
+            <country>MY</country>
+            <city>Kuala Lumpur</city>
+        </other>
+    </customer>
+
+    <customer>
+        <name>someone else2</name>
+        <age>28</age>
+
+        <other>
+            <country>MY</country>
+            <city>Kuala Lumpur</city>
+            <municipal>Project 4</municipal>
+        </other>
+    </customer>
+</customers>

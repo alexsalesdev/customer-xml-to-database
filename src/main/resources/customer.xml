@@ -1,0 +1,9 @@
+    <customer>
+        <name>solo customer</name>
+        <age>26</age>
+
+        <other>
+            <country>PH</country>
+            <city>Makati</city>
+        </other>
+    </customer>
