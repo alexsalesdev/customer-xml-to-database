@@ -12,6 +12,8 @@ this program will read xml and convert it into model and persist to H2 database.
 - Xml location can be found in /src/main/resources/*.xml
 
 ### Technology used
+Java
+
 Spring - application framework
 
 XStream - Xml parser/marshaller
